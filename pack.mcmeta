@@ -2,7 +2,7 @@
 	"pack": {
 		"pack_format": 2,
 		"description": [
-		{"text":"v2.0 for Minecraft 1.18"},
+		{"text":"v2.0 for Minecraft 1.9-1.10"},
 		{"text":"\nMade by: O.2.","color":"blue"}
 		]
 	}

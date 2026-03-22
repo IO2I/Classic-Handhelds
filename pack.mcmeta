@@ -1,11 +1,8 @@
 {
 	"pack": {
-		"pack_format": 1000,
-		"min_format": [18,0],
-		"max_format": [1000,0],
-		"supported_formats": [18,1000],
+		"pack_format": 9,
 		"description": [
-		{"text":"Classic item models"},
+		{"text":"v2.0 for Minecraft 1.19"},
 		{"text":"\nMade by: O.2.","color":"blue"}
 		]
 	}
